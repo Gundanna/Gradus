@@ -1,6 +1,4 @@
-===============================================================================
 PRODUCT RESALE AND DIRECT COMMERCIAL DISTRIBUTION BAN
-===============================================================================
 
 NOTICE: DIRECT PRODUCT MONETIZATION AND COMMERCIAL RESALE ARE PROHIBITED.
 
