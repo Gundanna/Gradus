@@ -1,63 +1,53 @@
 ===============================================================================
-PRODUCT RESALE AND DIRECT COMMERCIAL DISTRIBUTION BAN
+PRODUCT RESALE AND DIRECT COMMERCIAL DISTRIBUTION RESTRICTIONS
 ===============================================================================
 
-NOTICE: DIRECT PRODUCT MONETIZATION AND COMMERCIAL RESALE ARE PROHIBITED.
+NOTICE: COMMERCIAL USE AND DERIVATIVE PRODUCT DEVELOPMENT ARE PERMITTED. DIRECT COMMERCIAL DISTRIBUTION OF THIS SOFTWARE IS PROHIBITED.
 
-You are explicitly PERMITTED to use, run, and modify this software internally for 
-your own business operations. This includes, but is not limited to, utilizing the 
-software via commercial automation bots, integrating it into internal workflows, 
-and utilizing the source code or output for Artificial Intelligence (AI) model 
-training, ingestion, or data processing.
+This software is made available to encourage innovation, development, research, and the creation of independent commercial and noncommercial products.
 
-HOWEVER, you are STRICTLY PROHIBITED from directly commercializing this software 
-application itself. You may not sell, rent, lease, sub-license, bundle it as part 
-of a paid commercial product package, or host this software as a paid standalone 
-or competing service (such as a Software-as-a-Service / SaaS platform) marketed 
-to third parties. Any fork, modified version, or wrapper of this software remains 
-subject to this direct commercial resale and direct distribution restriction.
+**1. PERMITTED USE**
 
-For all purposes outside of direct commercial application resale, usage is governed 
-by the PolyForm Noncommercial License framework text below.
+You are explicitly permitted to:
+
+- Use, run, copy, study, and modify this software for personal, educational, research, and commercial purposes.
+- Integrate this software into independently developed applications, products, platforms, and services.
+- Use this software as a foundation, component, or development resource for creating new technologies.
+- Develop, train, operate, and commercialize artificial intelligence systems, machine learning models, LLMs, APIs, and other software using this software.
+- Monetize independently developed applications and services that utilize this software.
+- Create and distribute derivative applications that provide substantially different functionality from the original software.
+
+**2. PROHIBITED DIRECT COMMERCIAL DISTRIBUTION**
+
+You are strictly prohibited from commercially distributing or selling this software itself.
+
+This restriction includes:
+
+- Selling the original software or its source code.
+- Selling, licensing, or charging access fees for forks or modified versions of the original software.
+- Offering the original software or modified versions as paid standalone applications.
+- Commercially distributing the software under a different name or branding.
+- Offering paid downloads, subscriptions, or licenses whose primary product is this software itself.
+- Reselling or sublicensing this software for commercial distribution.
+
+**3. INDEPENDENT PRODUCT AND COMMERCIALIZATION EXCEPTION**
+
+Nothing in this license prohibits you from creating, selling, licensing, monetizing, or commercially distributing independently developed products that utilize, incorporate, depend upon, or are built using this software.
+
+For clarity, this includes:
+
+- Commercial AI models and LLMs developed using this software.
+- Paid applications and software products built using this software.
+- Commercial APIs and hosted services powered by software developed using this software.
+- Commercial automation systems and business tools.
+- Commercial products that incorporate this software as an internal component or dependency.
+
+The resulting products may be sold, licensed, hosted, distributed, or monetized, provided that the original software itself, or a modified version substantially retaining its identity as the original application, is not being commercially distributed as a product.
+
+**4. REDISTRIBUTION**
+
+You may redistribute the original software and modified versions free of charge, provided that all applicable copyright notices and a copy of this license are included.
+
+Any redistribution must preserve the restrictions established by this license.
 
 ===============================================================================
-POLYFORM NONCOMMERCIAL LICENSE 1.0.0
-===============================================================================
-
-Acceptance
-Leave this software alone and this license doesn't apply to you. Doing anything 
-else with this software—such as running, copying, contributing to, changing, or 
-distributing it—constitutes acceptance of this license.
-
-Copyright License
-The licensor grants you a copyright license to do everything with this software 
-that would otherwise infringe the licensor's copyright in it, for any 
-noncommercial purpose.
-
-Patent License
-The licensor grants you a patent license to make, have made, use, sell, offer 
-for sale, import, and otherwise transfer this software, where that would 
-otherwise infringe any patent claims the licensor can license that are read by 
-this software as provided by the licensor, for any noncommercial purpose.
-
-Noncommercial Purpose
-A purpose is noncommercial if it is not directed toward commercial advantage or 
-monetary compensation.
-
-Notices
-You must ensure that anyone who gets a copy of any part of this software from 
-you also gets a copy of this license and all copyright notices for this 
-software.
-
-Defense
-If you sue anyone for patent infringement claiming that this software infringes 
-any patent, your licenses under this agreement end immediately.
-
-No Liability
-This software is provided as is, without any warranty. The licensor will not be 
-liable to you for any damages arising out of this license or the use of this 
-software, under any legal theory.
-
-Definitions
-The licensor is the person or entity offering this software.
-This software is the software provided with this license.
