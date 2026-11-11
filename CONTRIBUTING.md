@@ -123,4 +123,4 @@ Thank you for contributing to Gradus.
 
 ---
 
-Copyright © Gradus. All rights reserved.
+Copyright © 2026 Arnav Parashetti. All rights reserved.
